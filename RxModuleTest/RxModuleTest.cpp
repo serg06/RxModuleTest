@@ -1,6 +1,5 @@
 #include <iostream>
 import "RxCpp/Rx/v2/src/rxcpp/rx.hpp";
-//import RxModule;
 
 namespace Rx {
 	using namespace rxcpp;
