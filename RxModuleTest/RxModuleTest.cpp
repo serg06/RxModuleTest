@@ -11,6 +11,6 @@ namespace Rx {
 int main()
 {
 	Rx::range(0, 10).subscribe([](int i) {
-        std::cout << "Hello world " << i << "\n";
-        });
+		std::cout << "Hello world " << i << "\n";
+	});
 }
